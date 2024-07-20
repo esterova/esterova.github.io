@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://esterova.github.io/sitemap
+Sitemap: https://esterova.github.io/app/sitemap
+Sitemap: https://esterova.github.io/assets/sitemap
+Sitemap: https://esterova.github.io/css/sitemap
+Sitemap: https://esterova.github.io/includes/sitemap
+Sitemap: https://esterova.github.io/item/sitemap
+Sitemap: https://esterova.github.io/src/sitemap
